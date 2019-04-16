@@ -21,4 +21,10 @@ Compatible for Galaxy S6, Galaxy S6 Edge, Galaxy S6 Edge+, Samsung Galaxy Note 5
 
 ## Sample
 
-![snap1](/archhood/sample/sample-01.png)
+![snap1](/sample/sample-01.png)
+
+![snap1](/sample/sample-02.png)
+
+![snap1](/sample/sample-03.png)
+
+![snap1](/sample/sample-04.png)
