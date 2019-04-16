@@ -20,3 +20,5 @@ Virtual Reality Android 3D Game
 Compatible for Galaxy S6, Galaxy S6 Edge, Galaxy S6 Edge+, Samsung Galaxy Note 5, Galaxy S7, Galaxy S7 Edge, Galaxy S8, Galaxy S8+, Samsung Galaxy Note Fan Edition, Samsung Galaxy Note 8, Samsung Galaxy A8/A8+ (2018) and Samsung Galaxy S9/Galaxy S9+.
 
 ## Sample
+
+![snap1](/archhood/sample/sample-01.png)
